@@ -3,3 +3,4 @@ jobs:
   build: ""
   continue-on-error: false
   pytest: ""
+  stackhawk/hawkscan: ""
