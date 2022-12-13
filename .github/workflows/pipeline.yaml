@@ -4,3 +4,5 @@ jobs:
   continue-on-error: false
   pytest: ""
   stackhawk/hawkscan: ""
+  flake8: ""
+  selenium: ""
